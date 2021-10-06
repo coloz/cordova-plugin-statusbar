@@ -20,7 +20,7 @@
 
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
     xmlns:android="http://schemas.android.com/apk/res/android"
-    id="cordova-plugin-statusbar"
+    id="cordova-plugin-statusbar-latest"
     version="3.0.0-dev">
     <name>StatusBar</name>
     <description>Cordova StatusBar Plugin</description>
